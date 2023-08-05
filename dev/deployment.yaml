@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: sisman/my-app:v1.0
+        image: sisman/my-app:5ec1024
         ports:
         - containerPort: 8080
